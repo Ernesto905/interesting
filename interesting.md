@@ -4,3 +4,6 @@ Blogs
 
 Essays
 - https://www.cs.utexas.edu/~eunsol/courses/data/bitter_lesson.pdf
+
+Videos
+- https://www.youtube.com/live/_5hcxlzxjY4?feature=shared
