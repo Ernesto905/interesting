@@ -9,3 +9,4 @@ Essays
 
 Videos
 - [Explaining Why Devs Burn Out](https://youtu.be/_5hcxlzxjY4?t=3340)
+- [Architecting Large Software Projects](https://www.youtube.com/watch?v=sSpULGNHyoI)
